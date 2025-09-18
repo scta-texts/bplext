@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Titulus 1</title>
+        <author ref="#per-boppob">Bernard of Parma</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Titulus 1</title>
+          <date when="2025-09-17">September 16, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="cod-gr82v2">Rome 1582, v. 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-09-17" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#R" n="4"/>
+        <cb ed="#R" n="a"/><!-- column 7 -->
+      </div>
+    </front>
+    <body>
+      <div xml:id="bplext-d1e60" type="decretales-l1t1">
+        <head xml:id="bplext-d1e60-Hd1e101">Titulus 1</head>
+        <div xml:id="bplext-d1e60-Dd1e103" type="decretales-l1t1c1">
+          <head xml:id="bplext-d1e60-Hd1e105">Caput 1</head>
+          <p xml:id="bplext-d1e60-d1e107"><!-- opening divisio capituli --></p>
+          <p xml:id="bplext-d1e60-d1e110"><!-- Casus --></p>
+          <p xml:id="bplext-d1e60-d1e113">
+            <lb ed="#R"/> <quote xml:id="bplext-d1e60-Qd1e117" source="http://scta.info/resource/cice-l1t1-d1e119@8-8">Firmiter</quote> Hoc ideo dicit, quia ordo fidei nostrae probari non potest: &amp; 
+            <cb ed="#R" n="b"/><!-- 8 -->
+            <lb ed="#R"/>quia ubi ratio deficit, fides supplet. <ref xml:id="bplext-d1e60-Rd1e125" target="http://scta.info/resource/gd-p3d4-Dd1e1228">de consecratione distinctione 4 capitulo nihil est aliud</ref> &amp; <ref xml:id="bplext-d1e60-Rd1e129" target="http://scta.info/resource/gd-p3d5-d1e693">distinctione 
+            <lb ed="#R"/>ultima capitulo ultimo</ref> arg. ut quod sermo sonat, affectus sentiat id est fides <ref xml:id="bplext-d1e60-Rd1e134" target="http://scta.info/resource/gd-p3d2-Dd1e1123">de consecratione distinctione 
+            <lb ed="#R"/>2 capitulo revera in fine</ref> quia fides est de re non uisa <ref xml:id="bplext-d1e60-Rd1e139" target="http://scta.info/resource/gd-p2c33q3d4-d1e227">de paenitentia distinctione 4 in domo in fine.</ref>
+          </p>
+          <p xml:id="bplext-d1e60-d1e143">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc>  <quote xml:id="bplext-d1e60-Qd1e149" source="http://scta.info/resource/cice-l1t1-d1e119@9-9">Credimus</quote> Hoc ideo dicit: quia dubius in fide, infidelis est infra <ref xml:id="bplext-d1e60-Rd1e152">de 
+            <lb ed="#R"/>haereticis capitulo 1</ref> et <ref xml:id="bplext-d1e60-Rd1e157">arg. 22. q. 1. omne quod. in fine</ref>  Et est simile de accusato con<lb ed="#R"/>tra 
+            quem nihil est pro<lb ed="#R"/>batum 
+            &amp; sic remanet du<lb ed="#R"/>bius 
+            quando se non purgat. 
+            <lb ed="#R"/>Et quia fides est exor<lb ed="#R"/>dium 
+            nostrae reparatio<lb ed="#R"/>nis: 
+            ideo prius de ea praemittit, 
+            quia prius homo 
+            <lb ed="#R"/>debet instrui in fide de 
+            <lb ed="#R"/>consecratione distinctione 4. ante ba<lb ed="#R"/>ptismum 
+            &amp; <ref xml:id="bplext-d1e60-Rd1e179">capitulo ante 20</ref>.
+          </p>
+          <p xml:id="bplext-d1e60-d1e183">
+            <!-- italic glos. seq. dat tria imilia, & submittit genus; this is almost like editorial help navigating the gloss?? -->
+          </p>
+          <p xml:id="bplext-d1e60-d1e188">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e60-Qd1e194" source="http://scta.info/resource/cice-l1t1-d1e119@11-11">Simpliciter</quote> Fides 
+            <lb ed="#R"/>enim simplicibus verbis 
+            <lb ed="#R"/>est proponenda 23 dist.
+            <lb ed="#R"/>qui episcopus &amp; 24 distin. 
+            <lb ed="#R"/>quando. Sic &amp; testimonium 
+            <lb ed="#R"/>debet esse purum. 3. quaestione 9
+            <lb ed="#R"/>pura. &amp; simplex debet 
+            <lb ed="#R"/>esse constitutio, simili<lb ed="#R"/>ter 
+            &amp; lex 4 dist. erit 
+            <lb ed="#R"/>autem. Sic &amp; quaelibet 
+            <lb ed="#R"/>scriptura si obscure lo<lb ed="#R"/>quatur, 
+            pro non scriptu<lb ed="#R"/>ra 
+            habetur ff. de iis quae pro non scri. ha. l. 1. sic &amp; testimonium obscurum 
+            <lb ed="#R"/>non valet infra de prob. in praesentia. &amp; infra de test. cum clamor. &amp; ff. de in<lb ed="#R"/>ter. 
+            ac. de aetetate § nihil interest. Et generaliter numquam per extranea 
+            <lb ed="#R"/>verba res est proponenda, sed per vsitata. arg. 37 dist. relatum. Ioannes Andreas.
+          </p>
+          <p xml:id="bplext-d1e60-d1e230">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e60-Qd1e236">Vnus</quote> hoc dictum fuit ad differentiam plurium planetarum, quos 
+            <lb ed="#R"/>quidam colebant tamquam Deos.
+          </p>
+          <p xml:id="bplext-d1e60-d1e241">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e60-Qd1e247">Verus</quote>dictus est ad differentiam fictorum.
+          </p>
+          <p xml:id="bplext-d1e60-d1e250">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e60-Qd1e256">Aeternus</quote> hoc ideo dicit, quia a misericordiae Dei nec mensuras pos<lb ed="#R"/>summus 
+            ponere, nec tempora definire. <ref xml:id="bplext-d1e60-Rd1e260">de poenitentia distinctione 1 multiplex</ref> &amp; <ref xml:id="bplext-d1e60-Rd1e262">26 quaestione 6 is qui</ref>
+          </p>
+          <p xml:id="bplext-d1e60-d1e265">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e60-Qd1e271">Immensus</quote> Id est, sine mensura: vnde dicitur: Intra omnia non 
+            inclusus, extra omnia non exclusus, supra omnia non elatus. 
+          </p>
+          <p xml:id="bplext-d1e60-d1e275">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e60-Qd1e281">Incommutabilis</quote> 22. quaestio 4 incommutabilis. &amp; tamen dat cuncta mo<lb ed="#R"/>ueri 
+            vnde <ref xml:id="bplext-d1e60-Rd1e285">Boethius 3 de consolatione</ref> <quote xml:id="bplext-d1e60-Qd1e287" source="http://scta.info/resource/hy7y6y-d1e67-d1e553@16-20">Stabilisque manens dat cuncta moueri</quote>, &amp;c.  
+            <lb ed="#R"/>Saepe tamen mutat sententiam suam, vt ibi dicitur &amp; <ref xml:id="bplext-d1e60-Rd1e293">c. unusquisque, in fi.</ref> 
+          </p>
+          <p xml:id="bplext-d1e60-d1e296">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc>  <quote xml:id="bplext-d1e60-Qd1e302">Incomprehensibilis</quote> vnde in veteri lege dicitur. Bestia quae mon<lb ed="#R"/>tem 
+            tetigerit, lapidabitur. Et illud: Accedet homo ad cor altum &amp; exalta<lb ed="#R"/>bitur 
+            Deus ab eo.  Et illud: <quote xml:id="bplext-d1e60-Qd1e308" source="http://scta.info/resource/rom11_33@1-16">O altitudo diuitiarum sapientiae et scientiae Dei, 
+            <lb ed="#R"/>quam incomprehensibilia sunt opera <!-- margin has "iudicia" --> eius, &amp; inuestigabiles viae eius.</quote>
+          </p>
+          <p xml:id="bplext-d1e60-d1e316">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e60-Qd1e322">Omnipotens</quote> quia omnia <sic>potest</sic> quae decent eius potentiam, &amp; quae posse 
+            <lb ed="#R"/>est aliquid posse. vnde <quote xml:id="bplext-d1e60-Qd1e328" source="http://scta.info/resource/gd-p2c33q3d2-d1e468@63-79">peccare non potest: quia peccare non est aliquid posse: 
+            <lb ed="#R"/>vt ait <ref xml:id="bplext-d1e60-Rd1e332" target="http://scta.info/resource/adt-l15-d1e1855@190-212"><name xml:id="bplext-d1e60-Nd1e333">Augustinus</name></ref> immo est aliquid non posse</quote>. vt <ref xml:id="bplext-d1e60-Rd1e337">de poenitentia distinctione 2, capitulo ultimo § caritas</ref>
+          </p>
+          <p xml:id="bplext-d1e60-d1e340">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e60-Qd1e346">Ineffabilis</quote> vnde illud: Sapientiam eius quis enarrabit? quasi dicat, nullus
+          </p>
+          <!-- editorial note -->
+          <p xml:id="bplext-d1e60-d1e351">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e60-Qd1e357">Simplex omnino</quote>
+          </p>
+        </div>
+        <div xml:id="bplext-d1e60-Dd1e361" type="decretales-l1t1c2">
+          <head xml:id="bplext-d1e60-Hd1e363">Caput 2</head>
+          <!-- division of chapter -->
+          <!-- followed by casus -->
+          <p xml:id="bplext-d1e60-d1e369">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e60-Qd1e375">Non est generans</quote> adiectiue tenetur, id est non generat, licet sit per<lb ed="#R"/>sona 
+            generans
+          </p>
+          <p xml:id="bplext-d1e60-d1e380">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e60-Qd1e386">asserit</quote> scilicet Ioachim 
+          </p>
+          <p xml:id="bplext-d1e60-d1e390">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e60-Qd1e396">asserit</quote> scilicet Petrus
+          </p>
+          <p xml:id="bplext-d1e60-d1e399">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e60-Qd1e405">Qui plantat</quote> scilicet praedicando 
+          </p>
+          <p xml:id="bplext-d1e60-d1e408">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e60-Qd1e414">Et qui rigat</quote> Baptizando in epistola ad Corinthios 
+          </p>
+          <p xml:id="bplext-d1e60-d1e417">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e60-Qd1e423">Vnum corpus &amp;c</quote> Vnione charitatis &amp; spiritus <ref xml:id="bplext-d1e60-Rd1e425" target="http://scta.info/resource/gd-p3d4-d1e1999">de consecratione di<lb ed="#R"/>stinctione 
+            4 quaeris a me</ref> 
+          </p>
+          
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

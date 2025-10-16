@@ -54,9 +54,59 @@
     <body>
       <div xml:id="bplext-d1e116" type="decretales-l1t6">
         <head xml:id="bplext-d1e116-Hd1e101">Titulus 6</head>
+        <!-- entry for Nullus -->
+        <!-- cassu -->
+        <div xml:id="bplext-d1e116-Dd1e108" type="decretales-l1t6c1">
+          <head xml:id="bplext-d1e116-Hd1e110">Caput 1</head>
+          <p xml:id="bplext-d1e116-d1e112">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e116-Qd1e118">Duo</quote> Nota quod duo 
+            <lb ed="#R"/>faciunt congregationem, 
+            vt hic: tres collegium: 
+            <lb ed="#R"/>vt <ref xml:id="bplext-d1e116-Rd1e124">ff. de verb. sig. l. Neratius</ref>. retinetur tamen in vno 
+            ius collegii, <ref xml:id="bplext-d1e116-Rd1e127">ff. quod cuius vniver. l. sicut municipum § vlt.</ref> 
+            <lb ed="#R"/>Et decem homines faciunt 
+            <lb ed="#R"/>populum. <ref xml:id="bplext-d1e116-Rd1e133">10. q. 3, c. unio</ref> 
+            <lb ed="#R"/>&amp; plures quam 10 aut 
+            <lb ed="#R"/>15 turbam. <ref xml:id="bplext-d1e116-Rd1e140">ff. vi bono 
+            <lb ed="#R"/>raptorum. c. praetor ait § 
+              <lb ed="#R"/>1.</ref>  Et quatuor vel quin<lb ed="#R"/>que 
+            porci, vel decem oves 
+            <lb ed="#R"/>faciunt gregem, <ref xml:id="bplext-d1e116-Rd1e151">ff. de abi<lb ed="#R"/>geis c. oves.</ref> Et quod dicit 
+            <lb ed="#R"/>duo faciunt congrega<lb ed="#R"/>tionem, hoc intelligo 
+            <lb ed="#R"/>vbi mortuo praelato 
+            <lb ed="#R"/>plures remanent in congregatione, ad minus duo ut hic dicitur, duo 
+            <lb ed="#R"/>vel tres per id quod sequitur in littera, nisi eorum electione. ergo 
+            <lb ed="#R"/>non minus &amp; ita patet, quod vbi tantum est sacerdos, et clericus, ibi non 
+            <lb ed="#R"/>dicitur congregatio sive collegium. Bernar.
+          </p>
+          <p xml:id="bplext-d1e116-d1e172">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc>  <quote xml:id="bplext-d1e116-Qd1e178">In congregatione</quote> Tunc enim conventus est electio <ref xml:id="bplext-d1e116-Rd1e180">infra de iure 
+            <lb ed="#R"/>patro. c. nobis</ref>; &amp; <ref xml:id="bplext-d1e116-Rd1e185">16. q. vlt. congregatio.</ref> secus si essent ibi plures 
+            <lb ed="#R"/>non tamquam collegium; tunc enim solius patroni est electio <ref xml:id="bplext-d1e116-Rd1e190">infra de 
+            <lb ed="#R"/>iure pat. c. postulasti.</ref>
+          </p>
+          <p xml:id="bplext-d1e116-d1e196">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e116-Qd1e202">aliter</quote> Quam per canonicam electionem.
+          </p>
+        </div>
+        <div xml:id="bplext-d1e116-Dd1e206" type="decretales-l1t6c2">
+          <head xml:id="bplext-d1e116-Hd1e208">Caput 2</head>
+          <!--first entry<p>
+            <quote>Osius episcopus</quote> 
+          </p>-->
+          <!-- casus -->
+          <p xml:id="bplext-d1e116-d1e214">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc>  <quote xml:id="bplext-d1e116-Qd1e220">Populi</quote> Nota quod ad clamorem populi nullus est eligendus: quia
+            <lb ed="#R"/>spe aut gratia hoc faciunt, aut pretium inde recipiunt: vt <ref xml:id="bplext-d1e116-Rd1e224">8. q. 1, c. si er<lb ed="#R"/>go</ref> 
+            quia populus sequendus non est, sed docendus, <ref xml:id="bplext-d1e116-Rd1e229">62. dist. c. docen<lb ed="#R"/>dus</ref> 
+            &amp; <ref xml:id="bplext-d1e116-Rd1e235">61. dist. c. miramur.</ref> Et vanae voces populi non sunt audiendae, 
+            <lb ed="#R"/><ref xml:id="bplext-d1e116-Rd1e238">C. de poe.</ref> l. decurionum filii. &amp; argu. ad hoc <ref xml:id="bplext-d1e116-Rd1e240">ff. de appellat. l. si constet.</ref>
+          </p>
+        </div>
         <div xml:id="bplext-d1e116-Dd1e103" type="decretales-l1t6c54">
           <head xml:id="bplext-d1e116-Hd1e105">Caput 54</head>
           <p xml:id="bplext-d1e116-d1e107">
+            <!-- starts on p101 colum 201 -->
             <lb ed="#R"/> <quote xml:id="bplext-d1e116-Qd1e111" source="http://scta.info/resource/cice-l1t6-d1e1002@56-56">Intitulatum</quote> Nota ergo quod nullus potest habere duas ecclesias inti<lb ed="#R" break="no"/>tulatas. 
             Vt hoc melius intelligas, videas primo quid sit titulus. Titu<lb ed="#R" break="no"/>lus quandoque dicitur signum, vt <ref xml:id="bplext-d1e116-Rd1e118" target="http://scta.info/resource/gd-p2c16q5-Dd1e110">16. q. <sic>6<!-- actually q. 5 --></sic>, consuetudo</ref>. Et dicitur titulus omnis causa acqui<lb ed="#R" break="no"/>rendi 
             dominii, vt titulus pro emptore, pro donato, pro haerede, pro suo, 

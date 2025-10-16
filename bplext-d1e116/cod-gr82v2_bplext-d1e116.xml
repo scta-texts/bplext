@@ -67,7 +67,7 @@
             <lb ed="#R"/>Et decem homines faciunt 
             <lb ed="#R"/>populum. <ref xml:id="bplext-d1e116-Rd1e133" target="http://scta.info/resource/gd-p2c10q3-Dd1e143">10. q. 3, c. unio</ref> 
             <lb ed="#R"/>&amp; plures quam 10 aut 
-            <lb ed="#R"/>15 turbam. <ref xml:id="bplext-d1e116-Rd1e140">ff. vi bono 
+            <lb ed="#R"/>15 turbam. <ref xml:id="bplext-d1e116-Rd1e140">ff. vi bonoroum 
             <lb ed="#R"/>raptorum. c. praetor ait § 
               <lb ed="#R"/>1.</ref>  Et quatuor vel quin<lb ed="#R"/>que 
             porci, vel decem oves 
@@ -101,6 +101,95 @@
             quia populus sequendus non est, sed docendus, <ref xml:id="bplext-d1e116-Rd1e229" target="http://scta.info/resource/gd-p1d62-Dd1e124">62. dist. c. docen<lb ed="#R"/>dus</ref> 
             &amp; <ref xml:id="bplext-d1e116-Rd1e235" target="http://scta.info/resource/gd-p1d61-Dd1e161">61. dist. c. miramur.</ref> Et vanae voces populi non sunt audiendae, 
             <lb ed="#R"/><ref xml:id="bplext-d1e116-Rd1e238">C. de poe.</ref> l. decurionum filii. &amp; argu. ad hoc <ref xml:id="bplext-d1e116-Rd1e240" target="http://scta.info/resource/bgy6gt-d1e4773-Dd1e284">ff. de appellat. l. si constet.</ref>
+          </p>
+          <p xml:id="bplext-d1e116-d1e256">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e116-Qd1e262">Synceram</quote> Charitate informatam
+          </p>
+          <!-- editorial gloss note -->
+          <p xml:id="bplext-d1e116-d1e268">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e116-Qd1e274">Corrumpi.</quote>  Nota hic dubia in deteriorem partem interpretari. 
+            <lb ed="#R"/><ref xml:id="bplext-d1e116-Rd1e277">infra, de cleri. non resi. c. 1 arg. contra</ref> <ref xml:id="bplext-d1e116-Rd1e279">infra, de reg. iur., estote.</ref>  Hoc ideo fit: quia 
+            <lb ed="#R"/>frequentius laici hoc faciunt, &amp; iura ad ea quae frequentius eveniunt 
+            <lb ed="#R"/>adaptantur 28. dist., c. de Syracusanae; et <ref xml:id="bplext-d1e116-Rd1e286">63. dist. c. noste</ref>; et <ref xml:id="bplext-d1e116-Rd1e288">ff. de legib., l. nam ad ea</ref>.
+          </p>
+          <p xml:id="bplext-d1e116-d1e291">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e116-Qd1e297">Poenituerit</quote> Quia venia datur nisi contrito et correcto, <ref xml:id="bplext-d1e116-Rd1e299">24. 
+            <lb ed="#R"/>q. 2, legatur.</ref> &amp; quomodo gaudebis te fuisse correctum, nisi doleas te fuis<lb ed="#R"/>se 
+            peruersum? <ref xml:id="bplext-d1e116-Rd1e306">23. q. 7. quemadmodum</ref>. &amp; <ref xml:id="bplext-d1e116-Rd1e309">50. dist., poenitentes.</ref>
+          </p>
+        </div>
+        <div xml:id="bplext-d1e116-Dd1e314" type="decretales-l1t6c3">
+          <head xml:id="bplext-d1e116-Hd1e316">Caput 3</head>
+          <!--<p>
+            <lb ed="#R"/>Postquam
+          </p>-->
+          <!-- casus -->
+          <p xml:id="bplext-d1e116-d1e322">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <ref xml:id="bplext-d1e116-Rd1e328">65. distin. de persona</ref> et <ref xml:id="bplext-d1e116-Rd1e330">infra de elect. cum inter vni<lb ed="#R"/>versas
+            c. nihil est</ref>. &amp; <ref xml:id="bplext-d1e116-Rd1e335">§ ultimo</ref>.
+          </p>
+          <p xml:id="bplext-d1e116-d1e338">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e116-Qd1e344">Conuersatus</quote> Nota quod 
+            ibi facienda est inquisi<lb ed="#R"/>tio 
+            ubi quis conversatur: 
+            <lb ed="#R"/>quia notus est ibi simile <ref xml:id="bplext-d1e116-Rd1e350">22. dist. illud</ref> <ref xml:id="bplext-d1e116-Rd1e353">argu infra de praesump., quosdam;</ref> &amp; 
+            <lb ed="#R"/><ref xml:id="bplext-d1e116-Rd1e356">24. q. 1, pudenda</ref> &amp; <ref xml:id="bplext-d1e116-Rd1e358">47. 
+            <lb ed="#R"/>dist. de Petro</ref>. &amp; <ref xml:id="bplext-d1e116-Rd1e363">infra, de elect. 
+              <lb ed="#R"/>scriptum est</ref> &amp; qui ali<lb ed="#R"/>quem 
+            purgant, debent 
+            <lb ed="#R"/>notam habere ipsius 
+            <lb ed="#R"/>conversationem <ref xml:id="bplext-d1e116-Rd1e375" target="http://scta.info/resource/cice-l5t34-Dd1e199">infra de 
+            <lb ed="#R"/>purg. cano. cum P. manconella</ref>; et <ref xml:id="bplext-d1e116-Rd1e380" target="http://scta.info/resource/cice-l5t34-Dd1e260">c. cum dile<lb ed="#R"/>ctus</ref> 
+            alias non posset de 
+            <lb ed="#R"/>ipsius vita constare.  Ber.
+          </p>
+        </div>
+        <div xml:id="bplext-d1e116-Dd1e389" type="decretales-l1t6c4">
+          <head xml:id="bplext-d1e116-Hd1e391">Caput 4</head>
+          <!--<p>
+            <quote>Significasti</quote>
+          </p>-->
+          <!-- casus -->
+          <p xml:id="bplext-d1e116-d1e397">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e116-Qd1e403">Apocrisiariis</quote> Apocrisiarii dicuntur nuncii domini Papae, quasi 
+            <lb ed="#R"/>secretarii. nam crisis quandoque dicitur secretum, quandoque au<lb ed="#R"/>rum, 
+            quandoque iudicium. Versus: 
+            <lb ed="#R"/>Aurum iudicium secretum dat tibi crisis.
+          </p>
+          <!--gloss editor note -->
+          <p xml:id="bplext-d1e116-d1e415">
+            <lb ed="#R"/><pc type="pilcrow">¶</pc> <quote xml:id="bplext-d1e116-Qd1e421">Conditione</quote> Signatur contra <ref xml:id="bplext-d1e116-Rd1e423">1. q. 2, quam pio</ref>. Solutio. Conditio ista non 
+            <lb ed="#R"/>est reprobanda, nec simoniam inducit, <ref xml:id="bplext-d1e116-Rd1e427">infra, de pact. c. pactiones</ref>. sed osten<lb ed="#R"/>dit 
+            pallium non aliter esse tradendum. Sicut haec adiectio, si satisdede<lb ed="#R"/>ris, 
+            cum praeses provinciae tutorem facit, non habet conditionem, sed 
+            <lb ed="#R"/>commonet tutelam non aliter committendam <ref xml:id="bplext-d1e116-Rd1e436">ff. de tute. l. muto § 1.</ref> 
+            <lb ed="#R"/>quia tutor sub conditione dari non potest: quia actus legitimi condi<lb ed="#R"/>tionem 
+            non recipiunt <ref xml:id="bplext-d1e116-Rd1e443">ff. de regul. iur. actus</ref> <ref xml:id="bplext-d1e116-Rd1e445">infra, eo in electionibus [lib. 6].</ref>
+            <!-- page break -->
+            <lb ed="#R"/>licet posset institui sub conditione a testatore, <ref xml:id="bplext-d1e116-Rd1e451">Institu. quibus modis 
+            <lb ed="#R"/>tu. fin. § sed &amp; si.</ref>  Et tacitae conditiones non faciunt legatum condi<lb ed="#R"/>tionale. 
+            <lb ed="#R"/><ref xml:id="bplext-d1e116-Rd1e460">ff. de condi. &amp; demon. conditiones</ref>. Vel refert a quo appo<lb ed="#R"/>natur 
+            conditio: quia si a superiore, non est simonia. Vel potest dici, 
+            <lb ed="#R"/>&amp; melius, quod ius commune est, quod hic exigitur. <ref xml:id="bplext-d1e116-Rd1e466">18. q. 2. Eleutherius.</ref> &amp; 
+            <lb ed="#R"/>hoc onus annexum est 
+            <lb ed="#R"/>dignitati <ref xml:id="bplext-d1e116-Rd1e473">infra de praeben. 
+            <lb ed="#R"/>significatum</ref> &amp; <ref xml:id="bplext-d1e116-Rd1e478">18. dist. diaconi.</ref> Et no<lb ed="#R"/>ta 
+            quod superior potest ap<lb ed="#R"/>ponere 
+            conditionem an<lb ed="#R"/>te 
+            subditi confirmatio<lb ed="#R"/>nem 
+            <ref xml:id="bplext-d1e116-Rd1e489">23. dist. quamquam</ref> &amp; <ref xml:id="bplext-d1e116-Rd1e491">28. dist. de Sy<lb ed="#R"/>racusanae</ref> 
+            sed inferior 
+            <lb ed="#R"/>non potest nisi post ele<lb ed="#R"/>ctionem 
+            <ref xml:id="bplext-d1e116-Rd1e500">8. q. 3. Artaldus</ref> &amp; vbi onus rei ex<lb ed="#R"/>primitur 
+            non est simo<lb ed="#R"/>niacum 
+            <ref xml:id="bplext-d1e116-Rd1e507">infra, de praeben. 
+            <lb ed="#R"/>c. significatum.</ref> Et prae<lb ed="#R"/>terea 
+            conditiones quae ipso iure insunt bene 
+            <lb ed="#R"/>apponuntur &amp; expri<lb ed="#R"/>muntur 
+            sine aliquo vi<lb ed="#R"/>tio: 
+            de quibus traditur 
+            <lb ed="#R"/><ref xml:id="bplext-d1e116-Rd1e522">infra. de iureiur. c. quemadmodum</ref> 
+            &amp; <ref xml:id="bplext-d1e116-Rd1e524">supra. de rescriptis. c. 2</ref>
           </p>
         </div>
         <div xml:id="bplext-d1e116-Dd1e103" type="decretales-l1t6c54">
